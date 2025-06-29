@@ -1,0 +1,3 @@
+config:
+  line-length: false # https://rhodesmill.org/brandon/2012/one-sentence-per-line/
+  no-bare-urls: false # https://github.blog/news-insights/product-news/video-uploads-available-github/

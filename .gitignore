@@ -1,0 +1,7 @@
+data/
+dist/
+*.egg-info/
+__pycache__/
+*.py[oc]
+.venv/
+wheels/
